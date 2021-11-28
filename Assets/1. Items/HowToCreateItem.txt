@@ -1,0 +1,7 @@
+1. Create a prefab variant of the prefab 'ItemBase'
+2. Name it 'Item_ItemName'
+3. Create a folder named 'ItemName'
+4. Place prefab variant inside
+5. You can create scripts from a template that has a basic scafolding for variable sync and using item and other things, the name of the script: 'ItemTemplate', PLACE ALL SCRIPTS ONTO THE ITEM ITSELF, NOT ANY CHILD (for consistency)
+6. Reference the item in the ItemManagger's 'items' field, set the id of the item to 'item_name'
+DONE!
