@@ -1,4 +1,4 @@
-# SwingCourseUnity
+# SwingCourse Base unity project
 ## Set the project up localy
 Init local repository in the folder of the local project: <code>git init</code>\
 Clone the latest project files: <code>git clone https://github.com/Vadkarika2/SwingCourseUnity.git MainLocal</code>\
