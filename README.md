@@ -7,7 +7,7 @@ Add remote repository: <code>git remote add RemoteMaster https://github.com/Vadk
 ## Commit changes to a <code>dev</code> branch
 Add all files to be tracked: <code>git add .</code>\
 Commit changes: <code>git commit -m "your comment on the changes you made"</code>\
-Push to dev branch: <code>git push RemoteMaster main:dev-your-name-or-custom-identifier</code>
+Push to dev branch: <code>git push RemoteMaster main(or curent local branch):dev-your-name-or-custom-identifier</code>
 ## Contribute
 Once you have successfuly submitted a dev branch, you can issue a pull-request by clicking on your dev branch, then clicking contribute -> open pull request.\
 You can detail your contribution as well as add notes on what you have added.\
